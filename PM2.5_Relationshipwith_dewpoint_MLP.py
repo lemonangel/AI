@@ -3,7 +3,7 @@
 """
 Created on Tue Jul 11 13:04:57 2017
 
-@author: Chen Lihua
+@author: 
 """
 
 import numpy

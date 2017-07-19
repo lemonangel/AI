@@ -13,7 +13,7 @@ You can change the number of inputs but you need to do a little change in the co
 (2) Change the input dim for the first layer of the model.
 (3) When you want to plot the output, tune the array size before inverse transform of the value.
 
-by Lihua Chen Jul-11/2017.
+by Jul-11/2017.
 """
 # LSTM for international airline passengers problem with time step regression framing
 import numpy
